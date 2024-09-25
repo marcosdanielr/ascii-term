@@ -3,6 +3,8 @@
 
 ASCIITerm is a simple shell script that allows users to display ASCII art in the terminal. It offers customization options for both the ASCII art and the color scheme.
 
+![Demonstration](https://i.imgur.com/AurJ7w2.png)
+
 ## Installation
 
 You can install ASCIITerm using either [paru](https://github.com/Morganamilo/paru) or [yay](https://github.com/Jguer/yay). Run the following command:
