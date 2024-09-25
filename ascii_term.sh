@@ -1,8 +1,10 @@
 #!/bin/bash
 
-if [ "$#" -ne 1 ]; then
-    echo "$0 <ascii_file>"
+ASCII_FILE="$HOME/.config/ascii-term/ascii.txt"
+
+if [[ ! -f "$ASCII_FILE" ]]; then
+    echo -e "\033[31mError: '$ASCII_FILE' not found"
     exit 1
 fi
 
-cat "$1"
+cat "$ASCII_FILE"
