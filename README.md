@@ -98,9 +98,3 @@ Now, every time you open your terminal, ASCIITerm will automatically display you
 ```bash
 asciiterm
 ```
-
-Feel free to contribute to ASCIITerm by opening issues or submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
