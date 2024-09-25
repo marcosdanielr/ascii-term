@@ -3,7 +3,7 @@
 
 ASCIITerm is a simple shell script that allows users to display ASCII art in the terminal. It offers customization options for both the ASCII art and the color scheme.
 
-![Demonstration](https://i.imgur.com/AurJ7w2.png)
+![Demonstration](https://i.imgur.com/AqNPYAb.png)
 
 ## Installation
 
