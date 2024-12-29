@@ -60,7 +60,7 @@ To automatically display your ASCII art when opening the terminal, you can add a
 2. Add the following line at the end of the file:
 
    ```bash
-   asciiterm
+   ascii-term
    ```
 
 3. Save the file and exit.
@@ -82,7 +82,7 @@ To automatically display your ASCII art when opening the terminal, you can add a
 2. Add the following line at the end of the file:
 
    ```bash
-   asciiterm
+   ascii-term
    ```
 
 3. Save the file and exit.
@@ -98,5 +98,5 @@ To automatically display your ASCII art when opening the terminal, you can add a
 Now, every time you open your terminal, ASCIITerm will automatically display your ASCII art in the color you have specified. You can also run it manually by typing:
 
 ```bash
-asciiterm
+ascii-term
 ```
